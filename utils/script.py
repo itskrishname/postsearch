@@ -26,10 +26,10 @@ Get connected channels list with - /connections</b>"""
     ABOUT = """<b>Powered By <a href='https://t.me/+06eHU0UzrcM1Nzg1'>𝑨𝒍𝒚𝒂 𝑩𝒐𝒕</a>
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=6872968794'>🔥︵L͙I͙G͙H͙T͙ ✿ Y͙A͙G͙A͙M͙I͙︵🔥</a>
-✯ SUPPORT: <a href='https://t.me/+06eHU0UzrcM1Nzg1'>𝑨𝒍𝒚𝒂 𝑩𝒐𝒕</a>
-✯ CHANNEL: <a href='https://t.me/dkanime_group'>𝑺𝒖𝒑𝒑𝒐𝒓𝒕</a>
-✯ DONATE: : <a href='tg://user?id=6872968794'>BUY A COFEE</a></b>"""
+✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=7660990923'>𝚂𝚑𝚛𝚎𝚎 ꪎ 𝙺ʀɪ𝚜ʜɴᴀ ჯ ↝ 🍷</a>
+✯ SUPPORT: <a href='https://t.me/Lord_Vasudev_Krishna'>Dev</a>
+✯ CHANNEL: <a href='https://t.me/SECRECT_BOT_UPDATES'>𝑺𝒖𝒑𝒑𝒐𝒓𝒕</a>
+✯ DONATE: : <a href='tg://user?id=7660990923'>BUY A COFEE</a></b>"""
 
     STATS = """My Status 💫
 
