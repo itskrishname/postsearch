@@ -1,7 +1,7 @@
-API_ID       = 
-API_HASH     = 
-BOT_TOKEN    = 
-SESSION      = 
-DATABASE_URI = 
-LOG_CHANNEL  = "-1001942398843"
-ADMIN        = "6872968794"
+API_ID       = "28891870"
+API_HASH     = "ffc3794690bf254d2867ac58fd293a60"
+BOT_TOKEN    = ""
+SESSION      = ""
+DATABASE_URI = "mongodb+srv://raj:krishna@cluster0.eq8xrjs.mongodb.net/"
+LOG_CHANNEL  = "-1002847593602"
+ADMIN        = "7660990923"
