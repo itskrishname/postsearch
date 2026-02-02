@@ -8,9 +8,9 @@ I Will filter your channel posts automatically and send it in your group chat wh
 
 - Add me in your group & channel with all permissions. 
 
-- Add My Assistant in your group & channel with all permissions [Remain anonymous permission Required in Group] . Assistant Id - @Miss_Naruto
+- Add My Assistant in your group & channel with all permissions [Remain anonymous permission Required in Group] . Assistant Id - !!!!
 
-- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @mai_hu_kira.
+- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @Lord_Vasudev_Krishna.
 
 - After verification send /connect YourChannelID
 
@@ -23,7 +23,7 @@ this will help you to remove a indexed channel from your group.
 
 Get connected channels list with - /connections</b>"""
 
-    ABOUT = """<b>Powered By <a href='https://t.me/+06eHU0UzrcM1Nzg1'>𝑨𝒍𝒚𝒂 𝑩𝒐𝒕</a>
+    ABOUT = """<b>Powered By <a href='https://t.me/Lord_Vasudev_Krishna'>𝚂𝚑𝚛𝚎𝚎 ꪎ 𝙺ʀɪ𝚜ʜɴᴀ ჯ ↝ 🍷</a>
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=7660990923'>𝚂𝚑𝚛𝚎𝚎 ꪎ 𝙺ʀɪ𝚜ʜɴᴀ ჯ ↝ 🍷</a>
